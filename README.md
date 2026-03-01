@@ -47,4 +47,6 @@ Roadmap:
 
    - Expanded monitoring
 
+   - T2 Macbook Linux Install
+
    - NAS build and storage layout
